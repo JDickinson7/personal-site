@@ -10,8 +10,16 @@ header {
   padding-bottom: 5px;
 }
 
-.cat-image2 {
-  margin: right 100px;;
-    margin-left: auto;
-    display:block;
-}
+<!-- i just want to change the way the photo is positioned, but I am struggling> 
+
+.cat-image2{
+  width: 100px;
+  display: inline-flex;
+      }
+  
+    .cat-image2 img{
+      margin: auto 100px;
+      float: right;
+      width: 300px;
+      height: 300px;
+  }
