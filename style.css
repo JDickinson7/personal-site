@@ -5,4 +5,13 @@ body {
 header {
   background-color: rgb(228, 139, 166);
   color: rgb(138, 55, 66);
+  text-align: center;
+  border-bottom: 3px solid rgb(187, 91, 120);
+  padding-bottom: 5px;
+}
+
+.cat-image2 {
+  margin: right 100px;;
+    margin-left: auto;
+    display:block;
 }

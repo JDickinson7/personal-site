@@ -1,0 +1,1 @@
+Hello! I am making a personal website. This site will include an introductory page, an "about me" page, and a portfolio page. 
